@@ -1,0 +1,12 @@
+{
+    "name": "sodexs/myfreetimeathome",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sodexs\\Myfreetimeathome\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
